@@ -1,0 +1,5 @@
+,Security Type,Symbol,Exchange,Country,Currency,Resource Type,Fundamental Data Currency,Resource Subtype,Region,Ticker,Ticker Name,Template,Tiny Name,Name,Watchlist,Resource ID,ID,Title,Card
+0,Common Stock,TTMT/A,Natl India,India,INR,Company,INR,Public,APAC,ttmt/a:in,TTMT/A:IN,Stock,Tata Motors Ltd,Tata Motors Ltd,True,TTMT/A:IN,TTMT/A:IN,Tata Motors Ltd,security
+1,ADR,0LDA,London,India,USD,Company,INR,Public,EMEA,0lda:ln,0LDA:LN,Stock,Tata Motors Ltd,Tata Motors Ltd,True,0LDA:LN,0LDA:LN,Tata Motors Ltd,security
+2,ADR,TATB,BX Worldcaps,India,CHF,Company,INR,Public,EMEA,tatb:sw,TATB:SW,Stock,Tata Motors Ltd,Tata Motors Ltd,True,TATB:SW,TATB:SW,Tata Motors Ltd,security
+3,Common Stock,TTMT,Natl India,India,INR,Company,INR,Public,APAC,ttmt:in,TTMT:IN,Stock,Tata Motors Ltd,Tata Motors Ltd,True,TTMT:IN,TTMT:IN,Tata Motors Ltd,security
